@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "word": "abate",
+      "definitions": ["to become less intense or widespread"],
+      "example": "The storm finally abated.",
+      "mnemonic": "A-bate: the beat slows down (less intense)."
+    },
+    {
+      "word": "benevolent",
+      "definitions": ["well meaning and kindly"],
+      "example": "A benevolent donor.",
+      "mnemonic": "Ben-evolent: Ben (a friendly person) is kind."
+    },
+    {
+      "word": "capricious",
+      "definitions": ["given to sudden changes of mood or behavior"],
+      "example": "Her capricious nature made planning difficult.",
+      "mnemonic": "Capri-cious: imagine a goat on a whim (capricious)."
+    },
+    {
+      "word": "daunt",
+      "definitions": ["to make someone feel intimidated or apprehensive"],
+      "example": "The task did not daunt her.",
+      "mnemonic": "DAUNT: Danger? AUNT — imagine intimidating relative."
+    },
+    {
+      "word": "eclectic",
+      "definitions": ["deriving ideas, style, or taste from a broad and diverse range of sources"],
+      "example": "An eclectic taste in music.",
+      "mnemonic": "Eclectic = E(very) C(ollection)lectic."
+    },
+    {
+      "word": "fervent",
+      "definitions": ["having or displaying a passionate intensity"],
+      "example": "A fervent supporter.",
+      "mnemonic": "Fervent ~ fever + vent: heated emotion."
+    },
+    {
+      "word": "gregarious",
+      "definitions": ["fond of company; sociable"],
+      "example": "He was gregarious and outgoing.",
+      "mnemonic": "Greg hangs out with 'friends' — gregarious."
+    },
+    {
+      "word": "heed",
+      "definitions": ["pay attention to; take notice of"],
+      "example": "You should heed the warning.",
+      "mnemonic": "HEED -> Hear and heed (listen)."
+    },
+    {
+      "word": "impeccable",
+      "definitions": ["in accordance with the highest standards; faultless"],
+      "example": "Impeccable manners.",
+      "mnemonic": "I'm-PECK-able: can't peck at any flaw."
+    },
+    {
+      "word": "juxtapose",
+      "definitions": ["place or deal with close together for contrasting effect"],
+      "example": "Black-and-white photos were juxtaposed with color images.",
+      "mnemonic": "Juxta-POSE: put poses side by side."
+    }
+  ]
+}
